@@ -1,0 +1,42 @@
+{
+  "lastUpdate": "2022/10/20 15:00:00",
+  "nameList": [
+    {
+      "name": "การนัดหมายผุ้ป่วยนอก",
+      "key": "appointment_opd"
+    },
+    {
+      "name": "การนัดหมายผู้่ป่วยใน",
+      "key": "appointment_ipd"
+    },
+    {
+      "name": "การคัดกรอง",
+      "key": "service_opd_screening"
+    },
+
+    {
+      "name": "การรับบริการผู้ป่วยนอก",
+      "key": "sevice_opd"
+    },
+    {
+      "name": "การรับวินิจฉัยผู้ป่วยนอก",
+      "key": "sevice_opd_diagnosis"
+    },
+    {
+      "name": "การรับยาผู้ป่วยนอก",
+      "key": "sevice_opd_drug"
+    },
+    {
+      "name": "การรับบริการผู้ป่วยใน",
+      "key": "sevice_ipd"
+    },
+    {
+      "name": "การรับวินิจฉัยผู้ป่วยใน",
+      "key": "sevice_ipd_diagnosis"
+    },
+    {
+      "name": "การรับยาผู้ป่วยใน",
+      "key": "sevice_ipd_drug"
+    }
+  ]
+}
