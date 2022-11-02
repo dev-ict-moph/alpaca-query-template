@@ -16,27 +16,27 @@
 
     {
       "name": "การรับบริการผู้ป่วยนอก",
-      "key": "sevice_opd"
+      "key": "service_opd"
     },
     {
       "name": "การรับวินิจฉัยผู้ป่วยนอก",
-      "key": "sevice_opd_diagnosis"
+      "key": "service_opd_diagnosis"
     },
     {
       "name": "การรับยาผู้ป่วยนอก",
-      "key": "sevice_opd_drug"
+      "key": "service_opd_drug"
     },
     {
       "name": "การรับบริการผู้ป่วยใน",
-      "key": "sevice_ipd"
+      "key": "service_ipd"
     },
     {
       "name": "การรับวินิจฉัยผู้ป่วยใน",
-      "key": "sevice_ipd_diagnosis"
+      "key": "service_ipd_diagnosis"
     },
     {
       "name": "การรับยาผู้ป่วยใน",
-      "key": "sevice_ipd_drug"
+      "key": "service_ipd_drug"
     }
   ]
 }
