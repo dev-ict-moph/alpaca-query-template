@@ -1,0 +1,61 @@
+{
+    "lastUpdate": "2022/11/04 13:55:00",
+    "nameList": [
+        {
+            "name": "คำนำหน้า",
+            "key": "title_code"
+        },
+        {
+            "name": "เพศ",
+            "key": "gender"
+        },
+        {
+            "name": "กรุ๊ปเลือด",
+            "key": "rh_blood_group"
+        },
+        {
+            "name": "สัญชาติ",
+            "key": "nationality_code"
+        },
+        {
+            "name": "สถานะสมรส",
+            "key": "marital_status"
+        },
+        {
+            "name": "อาชีพ",
+            "key": "occupation_code"
+        },
+        {
+            "name": "แผนกวินิจฉัย",
+            "key": "main_department_code"
+        },
+        {
+            "name": "ห้องตรวจ",
+            "key": "sub_department_code"
+        },
+        {
+            "name": "สิทธิการรักษา",
+            "key": "pttype"
+        },
+        {
+            "name": "การวินิจฉัย",
+            "key": "diagnosis_code"
+        },
+        {
+            "name": "โรคหลัก โรคร่วม หรือ โรคอื่นๆ",
+            "key": "diagnosis_type"
+        },
+        {
+            "name": "รหัสยา",
+            "key": "drug_code"
+        },
+        {
+            "name": "หน่วยยา",
+            "key": "unit"
+        },
+        {
+            "name": "ประเภท discharge",
+            "key": "discharge_type"
+        }
+    ]
+}
