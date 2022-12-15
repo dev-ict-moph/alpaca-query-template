@@ -33,6 +33,10 @@
     {
       "name": "การรับยาผู้ป่วยใน",
       "key": "service_ipd_drug"
+    },
+    {
+      "name": "การเสียชีวิต",
+      "key": "person_death"
     }
   ]
 }
